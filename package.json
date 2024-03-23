@@ -12,6 +12,11 @@
   "author": "Thkeya Smith",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.2.3",
+    "firebase-tools": "^13.5.2"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }
